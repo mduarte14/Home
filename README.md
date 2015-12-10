@@ -1,2 +1,2 @@
-# WP-Site
-Fan Site for Web Programming
+# My Home Page for my Resume
+Miguel A. Duarte Computer Programmer Website
